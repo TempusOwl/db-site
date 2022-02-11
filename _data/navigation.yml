@@ -54,14 +54,14 @@ docs:
         url: /docs/ui-text/
   - title: The Community
     children:
-      - title: "BDSM Munches, Dungeons & Meetups"
+      - title: "Gate Keeping & Kink Shaming"
+        url: /docs/layouts/
+      - title: "Munches, Dungeons & Meetups"
         url: /docs/posts/
       - title: "Online BDSM Community"
         url: /docs/posts/
       - title: "Joining Our Community"
         url: /docs/posts/
-      - title: "Gate Keeping & Kink Shaming"
-        url: /docs/layouts/
   - title: Dynamics
     children:
       - title: "Your First Dynamic"
@@ -88,7 +88,7 @@ docs:
         url: /docs/stylesheets/
       - title: "Places To Buy Toys & Equipment"
         url: /docs/javascript/
-      - title: "Making BDSM Dynamic Work LDR"
+      - title: "Making BDSM Work In LDR"
         url: /docs/stylesheets/
 
 # sidebar navigation list sample
