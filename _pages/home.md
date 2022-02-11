@@ -6,11 +6,10 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/bdsm-starter-guide/"
+    - label: "<i class='fas fa-download'></i> Join Our Discord"
+      url: "https://join.deviantbound.com"
 excerpt: >
-  Deviant is a BDSM community founded in 2017 based on promoting safety, education and helping others meet!<br/>
-  <small><a href="https://join.deviantbound.com">Join Our Discord</a></small>
+  Deviant is a BDSM community founded in 2017 based on promoting safety, education and helping others meet! Looking for a BDSM community? Join our Discord Below!<br/>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "education"
