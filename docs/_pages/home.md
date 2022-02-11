@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+      url: "/docs/bdsm-guide/"
 excerpt: >
   Deviant Bound is BDSM Community focused around education, safety and helping others meet!<br />
   <small><a href="https://join.deviantbound.com">Join Our Discord</a></small>

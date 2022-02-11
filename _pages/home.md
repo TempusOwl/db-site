@@ -7,30 +7,30 @@ header:
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+      url: "/docs/bdsm-starter-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  Deviant is a BDSM community founded in 2017 based on promoting safety, education and helping others meet!<br/>
+  <small><a href="https://join.deviantbound.com">Join Our Discord</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    alt: "education"
+    title: "Learn About BDSM"
+    excerpt: "Our documentation contains tips on how to be safe and build strong dynamics with your partner."
+    url: "/docs/bdsm-starter-guide/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    alt: "kinklist"
+    title: "Build A Kink List"
+    excerpt: "Use our tool to select from dozens of kinks, that can be shared as an image for others to see."
+    url: "https://kinklist.deviantbound.com"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    alt: "bdsmtest"
+    title: "BDSM Test"
+    excerpt: "Find what kind of deviant you are with our BDSM test."
+    url: "https://bdsmtest.deviantbound.com"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---

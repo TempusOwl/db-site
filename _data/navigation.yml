@@ -20,37 +20,35 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "About"
-    url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+  - title: "BDSM Guide"
+    url: /docs/bdsm-guide/
+  - title: "Blog"
+    #url: /collection-archive/ 
+  - title: "KinkList"
+    url: https://kinklist.deviantbound.com
+  - title: "BDSM Test"
+    url: https://kinklist.deviantbound.com
 
 
 # documentation links
 docs:
-  - title: Getting Started
+  - title: BDSM - Getting Started
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "What Is BDSM?"
+        url: /docs/bdsm-guide/
+      - title: "What Is Not BDSM?"
         url: /docs/structure/
-      - title: "Installation"
+      - title: "BDSM = Community"
         url: /docs/installation/
-      - title: "Upgrading"
+      - title: "Your Journey"
         url: /docs/upgrading/
-  - title: Customization
+  - title: Important Concepts
     children:
-      - title: "Configuration"
+      - title: "BDSM Roles"
         url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
+      - title: "Safety & Limits"
         url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
+      - title: "Communcation"
         url: /docs/navigation/
       - title: "UI Text"
         url: /docs/ui-text/
@@ -58,11 +56,11 @@ docs:
         url: /docs/authors/
       - title: "Layouts"
         url: /docs/layouts/
-  - title: Content
+  - title: Dynamics
     children:
-      - title: "Working with Posts"
+      - title: "Your First Dynamic"
         url: /docs/posts/
-      - title: "Working with Pages"
+      - title: "The Relationship"
         url: /docs/pages/
       - title: "Working with Collections"
         url: /docs/collections/
@@ -76,7 +74,7 @@ docs:
         url: /docs/stylesheets/
       - title: "JavaScript"
         url: /docs/javascript/
-  - title: Meta
+  - title: More Reading
     children:
       - title: "History"
         url: /docs/history/
