@@ -32,29 +32,35 @@ main:
 
 # documentation links
 docs:
-  - title: BDSM - Getting Started
+  - title: Getting Started In BDSM
     children:
       - title: "What Is BDSM?"
         url: /docs/bdsm-guide/
-      - title: "What Is Not BDSM?"
-        url: /docs/structure/
-      - title: "BDSM = Community"
+      - title: "BDSM Is A Community"
         url: /docs/installation/
-      - title: "Your Journey"
+      - title: "Your Personal Journey"
         url: /docs/upgrading/
   - title: Important Concepts
     children:
       - title: "BDSM Roles"
         url: /docs/configuration/
-      - title: "Safety & Limits"
-        url: /docs/overriding-theme-defaults/
-      - title: "Communcation"
+      - title: "Communcation & Honorifics"
         url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
+      - title: "Submissives Have The Power"
         url: /docs/authors/
-      - title: "Layouts"
+      - title: "Safe Words & Limits"
+        url: /docs/overriding-theme-defaults/
+      - title: "Fake Doms"
+        url: /docs/ui-text/
+  - title: The Community
+    children:
+      - title: "BDSM Munches, Dungeons & Meetups"
+        url: /docs/posts/
+      - title: "Online BDSM Community"
+        url: /docs/posts/
+      - title: "Joining Our Community"
+        url: /docs/posts/
+      - title: "Gate Keeping & Kink Shaming"
         url: /docs/layouts/
   - title: Dynamics
     children:
@@ -62,30 +68,28 @@ docs:
         url: /docs/posts/
       - title: "The Relationship"
         url: /docs/pages/
-      - title: "Working with Collections"
+      - title: "Learning About BDSM Protocal"
         url: /docs/collections/
       - title: "Helpers"
         url: /docs/helpers/
       - title: "Utility Classes"
         url: /docs/utility-classes/
-  - title: Extras
+  - title: Kink Education
     children:
-      - title: "Stylesheets"
+      - title: "First Aid & Treatment"
         url: /docs/stylesheets/
-      - title: "JavaScript"
+      - title: "Using BDSM / Sex Toys"
         url: /docs/javascript/
-  - title: More Reading
+      - title: "Shibari"
+        url: /docs/stylesheets/
+      - title: More Reading
     children:
-      - title: "History"
-        url: /docs/history/
-      - title: "Contributing"
-        url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
-      - title: "License"
-        url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
+      - title: "Avoiding Catfishes"
+        url: /docs/stylesheets/
+      - title: "Places To Buy Toys & Equipment"
+        url: /docs/javascript/
+      - title: "Making BDSM Dynamic Work LDR"
+        url: /docs/stylesheets/
 
 # sidebar navigation list sample
 sidebar-sample:
