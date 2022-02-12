@@ -43,7 +43,3 @@ Video chatting is by far the best way, video chatting is notoriously hard to fak
 
 ---
 
-
-
----
-
