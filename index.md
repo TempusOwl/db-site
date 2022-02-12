@@ -6,11 +6,10 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/background-feature.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/bdsm-guide/"
+    - label: "<i class='fas fa-download'></i> Join Our Discord"
+      url: "https://join.deviantbound.com"
 excerpt: >
-  Deviant Bound is BDSM Community focused around education, safety and helping others meet!<br />
-  <small><a href="https://join.deviantbound.com">Join Our Discord</a></small>
+  Deviant Bound is BDSM Community focused around education, safety and helping others meet!<br/>
 feature_row:
   - image_path: /assets/images/kinklist-feature.png
     alt: "customizable"
