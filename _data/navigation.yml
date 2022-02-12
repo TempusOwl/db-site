@@ -37,17 +37,17 @@ docs:
       - title: "What Is BDSM?"
         url: /docs/bdsm-guide/
       - title: "BDSM Is A Community"
-        url: /docs/installation/
+        url: /docs/02-bdsm-community/
       - title: "Your Personal Journey"
-        url: /docs/upgrading/
+        url: /docs/your-journey/
   - title: Important Concepts
     children:
       - title: "BDSM Roles"
         url: /docs/bdsm-roles/
       - title: "Communcation & Honorifics"
-        url: /docs/navigation/
+        url: /docs/communication/
       - title: "Submissives Have The Power"
-        url: /docs/authors/
+        url: /docs/submissives-have-the-power/
       - title: "Safe Words & Limits"
         url: /docs/overriding-theme-defaults/
       - title: "Fake Doms"
