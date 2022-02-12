@@ -108,12 +108,12 @@ author:
   bio              : "Spreading Knowledge & Helping Others"
   location         : "United States"
   links:
-    - label: "Website"
+    - label: "Homepage"
       icon: "fas fa-fw fa-link"
-       url: "https://deviantbound.com"
+      url: "https://deviantbound.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/tempusowl"
+      url: "https://twitter.com/tempusowl"
 
 # Site Footer
 footer:
