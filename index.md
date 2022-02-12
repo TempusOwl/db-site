@@ -7,10 +7,9 @@ header:
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Join Our Discord"
-      url: "/docs/bdsm-guide/"
+      url: "https://join.deviantbound.com"
 excerpt: >
-  Deviant is a BDSM community founded in 2017 based on promoting safety, education and helping others meet!<br/>
-  <small><a href="https://join.deviantbound.com">Join Our Discord</a></small>
+  Is a BDSM community founded in 2017 based on promoting safety, education and helping others meet!<br/>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "education"
