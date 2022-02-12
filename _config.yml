@@ -61,12 +61,12 @@ atom_feed:
   hide                   : # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search_provider          : algolia # lunr (default), algolia, google
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id         : G8T010XTUJ # YOUR_APPLICATION_ID
+  index_name             : prod_db-blog # YOUR_INDEX_NAME
+  search_only_api_key    : d54380e2d56c2d40875475900ae9d1fe # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : true # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -104,9 +104,9 @@ analytics:
 # Site Author
 author:
   name             : "TempusOwl"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Spreading Knowledge & Helping Others"
   location         : "United States"
+  avatar           : "/assets/images/tempusowl-avatar.jpg"
   links:
     - label: "Homepage"
       icon: "fas fa-fw fa-link"
