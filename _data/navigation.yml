@@ -23,7 +23,7 @@ main:
   - title: "BDSM Guide"
     url: /docs/bdsm-guide/
   - title: "Blog"
-    #url: /collection-archive/ 
+    url: /blog/ 
   - title: "KinkList"
     url: https://kinklist.deviantbound.com
   - title: "BDSM Test"

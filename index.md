@@ -15,7 +15,7 @@ feature_row:
     alt: "customizable"
     title: "Make A Kinklist"
     excerpt: "Then use it to share to others!"
-    url: "/docs/configuration/"
+    url: "https://kinklist.deviantbound.com"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/bdsmlist-feature.png

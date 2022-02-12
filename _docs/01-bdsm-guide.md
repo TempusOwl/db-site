@@ -9,7 +9,7 @@ toc: true
 ---
 ## What Is BDSM About?
 Whether you are a woman who finds the thrill of having a guy being a bit rougher or a guy who prefers a girl on top, these concepts mesh into BDSM concepts. BDSM draws greatly from a pure submissive and dominant relationship naturally. BDSM is about the personal journey to find what makes you deviant and the connections with others you make along the way.
-TIP: The BDSM acronym can be found below, it's admittedly a confusing design but makes sense once you understand the relationship with each part.
+
 
 ## What isn’t BDSM?
 BDSM comes in many colors, most people who practice BDSM do not even have a dedicated dungeon and make use of their bedroom or other living spaces within their means.
@@ -17,13 +17,11 @@ It looks painful and scary! What you may have been exposed to in porn is often m
 
 Everyone is a slave 24/7 to their master and I am locked away in their dungeon! This is not the case. Total Power Exchange or 24/7 is a kink in the community, but it requires to be in person and is a SERIOUS commitment. Some practice a "style" of 24/7 online, but it's a much different beast in person. 24/7 is not as prevalent as depicted in media (as found in Fifty Shades Of Grey) or pornographic content as it has to be something you really try to seek out for and meet the right people. It's expected/encourged for people to maintain their work, personal life, and friendship obligations while within BDSM dynamics.
 
-## Conduct & Expectations
-- Never cheat or engage with additional partners in an exclusive dynamic.
-- Never openly talk/brag about your BDSM relationship by name-dropping your partner with others unless you talked about being "public". People often expect some anonymity and privacy in BDSM as not to affect their personal and/or professional life.
-- Never use your Dom status to pressure someone into doing something they are uncomfortable with IE: Giving Nudes that was stated as being a limit.
-- Do not use your safe word as a joke, it devalues its importance for the moment when it is truly needed.
-- If you are uncomfortable/something is not right, stop. Do not push yourself beyond what you find okay to appease anyone. Your safety comes first.
-- Never share "personal" photos and videos, unless they consent to that.
-- Do not underestimate the headspace of a submissive. Some submissives may to consent to something they would not otherwise when feeling submissive. As a Dominant, you should be cautious around pushing boundaries within scenes and know the limits of your submissive. Discussing changes/ideas prior to be safe and protect your Sub even if they won't themselves. If things happen in the moment know the risk and watch out for your partner and their body language/tone.
+## What does the term BDSM represent?
+The BDSM acronym can be found below, it's admittedly a tricky one but it represents the relationship between different sects of BDSM. Some of the letters represent more than one word at the same time, making it not a typical acronym.
+
+<figure>
+  <img src="{{ '/assets/images/doc-BDSM-acronym.png' | relative_url }}" alt="An image depicting what BDSM letters mean.">
+</figure>
 
 ---
