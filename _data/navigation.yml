@@ -37,7 +37,7 @@ docs:
       - title: "What Is BDSM?"
         url: /docs/bdsm-guide/
       - title: "BDSM Is A Community"
-        url: /docs/02-bdsm-community/
+        url: /docs/bdsm-community/
       - title: "Your Personal Journey"
         url: /docs/your-journey/
   - title: Important Concepts
@@ -45,51 +45,38 @@ docs:
       - title: "BDSM Roles"
         url: /docs/bdsm-roles/
       - title: "Communcation & Honorifics"
-        url: /docs/communication/
+        url: /docs/communication-and-honorifics/
       - title: "Submissives Have The Power"
         url: /docs/submissives-have-the-power/
+      - title: "Basic Safety"
+        url: /docs/basic-safety/
       - title: "Safe Words & Limits"
-        url: /docs/overriding-theme-defaults/
+        url: /docs/safe-words-and-limits/
       - title: "Fake Doms"
-        url: /docs/ui-text/
+        url: /docs/fake-doms/
   - title: The Community
     children:
       - title: "Gate Keeping & Kink Shaming"
-        url: /docs/layouts/
-      - title: "Munches, Dungeons & Meetups"
-        url: /docs/posts/
-      - title: "Online BDSM Community"
-        url: /docs/posts/
-      - title: "Joining Our Community"
-        url: /docs/posts/
+        url: /docs/kink-shaming-gate-keeping/
   - title: Dynamics
     children:
-      - title: "Your First Dynamic"
-        url: /docs/posts/
-      - title: "The Relationship"
-        url: /docs/pages/
-      - title: "Learning About BDSM Protocal"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
+      - title: "Protocol"
+        url: /docs/protocal/
+      - title: "Staying Safe"
+        url: /docs/staying-safe/
+      - title: "Exhibtionism"
+        url: /docs/exhibtionism/
+      - title: "Shibari"
+        url: /docs/shibari/
   - title: Kink Education
     children:
-      - title: "First Aid & Treatment"
-        url: /docs/stylesheets/
+      - title: "First Aid"
+        url: /docs/first-aid/
       - title: "Using BDSM / Sex Toys"
-        url: /docs/javascript/
-      - title: "Shibari"
-        url: /docs/stylesheets/
-      - title: More Reading
-    children:
-      - title: "Avoiding Catfishes"
-        url: /docs/stylesheets/
-      - title: "Places To Buy Toys & Equipment"
-        url: /docs/javascript/
-      - title: "Making BDSM Work In LDR"
-        url: /docs/stylesheets/
+        url: /docs/toys-and-equipment/
+      - title: "Long Distance"
+        url: /docs/bdsm-long-distance/
+
 
 # sidebar navigation list sample
 sidebar-sample:
