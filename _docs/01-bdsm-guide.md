@@ -10,7 +10,6 @@ toc: true
 ## What Is BDSM About?
 Whether you are a woman who finds the thrill of having a guy being a bit rougher or a guy who prefers a girl on top, these concepts mesh into BDSM concepts. BDSM draws greatly from a pure submissive and dominant relationship naturally. BDSM is about the personal journey to find what makes you deviant and the connections with others you make along the way.
 
-
 ## What isn’t BDSM?
 BDSM comes in many colors, most people who practice BDSM do not even have a dedicated dungeon and make use of their bedroom or other living spaces within their means.
 It looks painful and scary! What you may have been exposed to in porn is often more complicated and intense than what people practice in their own dynamics at home, especially when starting out in the community. Pornographic content uses expensive sets with equally expensive toys and another kit to make video content around rope suspension, restrain rigs, sybians and more. This stuff cost $1000's of dollars. While many Doms will have a box of tools and toys, what you find in BDSM porn is uncommon unless you seek that. One of the parts about BDSM is if you dislike something note it down as a limit/dislike for yourself and let potential partners know and journey on!
