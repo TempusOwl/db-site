@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
+    - label: "<i class='fas fa-download'></i> Join Our Discord"
       url: "/docs/bdsm-guide/"
 excerpt: >
   Deviant is a BDSM community founded in 2017 based on promoting safety, education and helping others meet!<br/>
