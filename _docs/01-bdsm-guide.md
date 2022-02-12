@@ -25,4 +25,5 @@ Everyone is a slave 24/7 to their master and I am locked away in their dungeon! 
 - If you are uncomfortable/something is not right, stop. Do not push yourself beyond what you find okay to appease anyone. Your safety comes first.
 - Never share "personal" photos and videos, unless they consent to that.
 - Do not underestimate the headspace of a submissive. Some submissives may to consent to something they would not otherwise when feeling submissive. As a Dominant, you should be cautious around pushing boundaries within scenes and know the limits of your submissive. Discussing changes/ideas prior to be safe and protect your Sub even if they won't themselves. If things happen in the moment know the risk and watch out for your partner and their body language/tone.
+
 ---
