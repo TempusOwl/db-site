@@ -1,7 +1,7 @@
 ---
 title: "BDSM Roles"
-permalink: /docs/bdsm-roles/
-excerpt: "Learn what BDSM roles are and how to find yours."
+permalink: /docs/acronyms/
+excerpt: "Learn what BDSM acronyms."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
