@@ -21,7 +21,7 @@ toc_sticky: true
 - Do not underestimate the headspace of a submissive. Some submissives may consent to something they would not otherwise when feeling submissive. As a Dominant, you should be cautious around pushing boundaries within scenes and know the limits of your submissive.
 
 ## House Rules
-If you ever partake in a local event or community check their rules and expectations before diving in. Many have specific rules that may not be obvious, such as no phone/camera use or drinking. Rules like these exist to ensure the privacy and safety of attendees, it can be a confusing venture if you do not pay attention. If you are unsure about something reach out beforehand and ask if something is alright before attempting it or showing up. When in doubt these events are staffed by Dungeon Monitors usually and they exist to ask.
+If you ever partake in a local event or community check their rules and expectations before diving in. Many have specific rules that may not be obvious, such as no phone/camera use or drinking. Rules like these exist to ensure the privacy and safety of attendees, it can be a confusing venture if you do not pay attention. If you are unsure about something reach out beforehand and ask if something is alright.
 
 ## Our Discord Community Rules
 - Unwanted sexual direct messages will result in bans.
