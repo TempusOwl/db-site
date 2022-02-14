@@ -2,10 +2,11 @@
 title: "Kink Shamming & Gate Keeping"
 permalink: /docs/kink-shaming-gate-keeping/
 excerpt: "Learn about issues like Kink Shamming & Gate Keeping."
-last_modified_at: 2021-06-07T08:48:05-04:00
+last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
+toc_sticky: true
 ---
 ## Kink Shaming
 This is when a kink is used to promote negativity. Most often shamming comes from someone who disagrees with a kink or its concept. They speak their beliefs outwardly. If you encounter a kink you disagree with, you should keep your opinion to yourself. One of the wonders of the BDSM community is its diversity. If you are morally against someone's kink that is fine but keep it to yourself. That said discussing your dislikes and how they relate to your interests with potential partners is totally acceptable. Telling people who didn't ask your opinion is not acceptable.
@@ -15,6 +16,3 @@ That said there are kinks that are outright illegal or truly obscene, these are 
 ## Gate Keeping
 BDSM is a community of diversity, with each kink/term having various meanings to an individual. BDSM/Kinks represent an opinion, no who governs what kinks are defined as. Many try to define themselves by a term, but in my experience, terms mean different things to different people. We are complex human creatures with complicated emotions, beliefs, and interests. If your definition is remotely close in spirit, not defined better elsewhere then use whatever you feel most comfortable with. Therefore, it is recommended to ask your partners what their kinks mean to them.
 When engaging others, it is best to keep your opinions to yourself for what a kink means, instead recognize how beliefs differ and understand them better. Gatekeeping is a toxic trend where some say you are not X if you do not like A B C. Do not fall into this kind of mindset, instead focus on inclusivity.
-
----
-

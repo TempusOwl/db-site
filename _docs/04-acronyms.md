@@ -2,10 +2,11 @@
 title: "BDSM Roles"
 permalink: /docs/bdsm-roles/
 excerpt: "Learn what BDSM roles are and how to find yours."
-last_modified_at: 2021-06-07T08:48:05-04:00
+last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
+toc_sticky: true
 ---
 This is an ongoing list of BDSM kinks as well as safety-oriented ones, It is meant to be a fairly conclusive one with kinks you will find out in the wild. When in doubt always ask your partner if they say something you never heard! The list is on-going.
 ## Safety Ordinated

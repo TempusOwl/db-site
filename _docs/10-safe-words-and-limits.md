@@ -2,13 +2,13 @@
 title: "Safe Words & Limits"
 permalink: /docs/safe-words-and-limits/
 excerpt: "Learn about safe words and what limits mean within BDSM."
-last_modified_at: 2021-06-07T08:48:05-04:00
+last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
+toc_sticky: true
 ---
-The concept of "Safe Words" are often misunderstood, especially with beginners who do not see the value in a dedicated safe words. BDSM is about being safe; communication is paramount to ensure this happens. The disconnect that many beginners have with BDSM is they ask themselves why do I need a safe word? In reality many beginners forgo a dedicated safe word with great success. This creates a dangerous situation where people do not value the benefit of safe words as they grow more with BDSM. If you want to take BDSM seriously and beyond what is vanilla agreeing upon a safe word is necessary. 
-
+The concept of "Safe Words" are often misunderstood, especially with beginners who do not see the value in a dedicated safe word. BDSM is about being safe; communication is paramount to ensure this happens. The disconnect that many beginners have with BDSM is they ask themselves why do I need a safe word? In reality, many beginners forgo a dedicated safe word with great success. This creates a dangerous situation where people do not value the benefit of safe words as they grow more with BDSM. If you want to take BDSM seriously and beyond what is vanilla agreeing upon a safe word is necessary.
 ## Safe Word - Your Own
 There are two types of Safe Words; there are singular safe words that you are likely familiar with, these safewords are popular and used by many. The fun part about singular safewords is you can pick them! The safe word should be easy to pronounce, distance from casual conversation. For example, the safe word of "Hodar" from Game of Thrones may come across as "harder," this would be a bad safe word. A good safe word could be "Mustang", you often want two or more syllables so it can be easy to understand at the moment and not mistaken as random noise.
 ## Safe Word - Red Light
@@ -23,5 +23,4 @@ The dominant person needs to look out for the health and safety of those involve
 "Red" and other safe words, should be used as an "I am done". It is bad practice to start a scene back up after your partner uses a safe word, the responsible thing to do is to reflect on what happened and improve, even if your partner may claim it's okay. It is best to go slow, communicate together about what happened, give some aftercare and take things easy. There is no need to rush, and there is always another day to start fresh. Consoling a partner there is nothing wrong with stopping and advocating for their safety and consenting will go a long way in building trust for the future and your bond.
 This is also why Red Yellow Green is often recommended over single safewords because there is more flexibility than just "stop". There is more granularity to the system.
 
----
 

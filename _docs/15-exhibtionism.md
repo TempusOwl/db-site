@@ -2,10 +2,11 @@
 title: "Exhibtionism"
 permalink: /docs/exhibtionism/
 excerpt: "Learn about exhibtionism."
-last_modified_at: 2021-06-07T08:48:05-04:00
+last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
+toc_sticky: true
 ---
 ## What is BDSM is public and how does it look?
 It can take many forms from requiring the wearing of devices like chastity cages, butt plugs, vibrators, and more. In other forms, it can be physiological domination like in Daddy/Little dynamics.

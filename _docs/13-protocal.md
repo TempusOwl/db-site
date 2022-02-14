@@ -2,10 +2,11 @@
 title: "Protocl"
 permalink: /docs/protocol/
 excerpt: "Learn about BDSM protocol."
-last_modified_at: 2021-06-07T08:48:05-04:00
+last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
+toc_sticky: true
 ---
 Protocol levels are the expectation of how a dynamic should work between two people. There is necessarily no agreed-upon meaning of what each protocol means, so always discuss expectations with your partners as things can differ slightly. With that said the rest of this article is going to explain what you will commonly find in each protocol level in the BDSM community and what you can expect but first some important concepts!
 ## Important Concepts
@@ -36,6 +37,4 @@ Sometimes considered vanilla, or informal is the most open type of protocol with
 This is a more common protocol where there is a greater sense of commitment now and the power dynamics less subtle. For some, this may be your status quo. You are to follow the rules given by a dominant within reason. This is when you may wear a collar for fun and take it off when its
 ## What Is High Protocol?
 Soon.
-
----
 

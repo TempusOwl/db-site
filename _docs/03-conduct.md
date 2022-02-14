@@ -2,20 +2,34 @@
 title: "BDSM Starter Guide"
 permalink: /docs/conduct/
 excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
-last_modified_at: 2021-06-07T08:48:05-04:00
+last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
+toc_sticky: true
 ---
 
-## Conduct & Expectations
+## Conduct
 - Never cheat or engage with additional partners in an exclusive dynamic.
-- Never openly talk/brag about your BDSM relationship by name-dropping your partner with others unless you talked about being "public". People often expect some anonymity and privacy in BDSM as not to affect their personal and/or professional life.
-- Never use your Dom status to pressure someone into doing something they are uncomfortable with IE: Giving Nudes that was stated as being a limit.
+- Never openly talk/brag about your BDSM relationship by name-dropping your partner with others unless that is agreed upon. People often expect some anonymity and privacy in BDSM as not to affect their personal and/or professional life.
+- See out and learn safety concerns for any kink you wish to practice on someone (or have done on yourself).
+- Never stop learning, we are all students in this big world. Always come in with an open mind and ears.
+- Never take screenshots, photo images, videos, or refer to someone being inside what could be perceived as the BDSM community, for the same reason above.
+- Never be a Dom/Sub who uses their status to abuse and manipulate. Follow your partner's limits and listen/follow what they say.
 - Do not use your safe word as a joke, it devalues its importance for the moment when it is truly needed.
-- If you are uncomfortable/something is not right, stop. Do not push yourself beyond what you find okay to appease anyone. Your safety comes first.
-- Never share "personal" photos and videos, unless they consent to that.
-- Do not underestimate the headspace of a submissive. Some submissives may to consent to something they would not otherwise when feeling submissive. As a Dominant, you should be cautious around pushing boundaries within scenes and know the limits of your submissive. Discussing changes/ideas prior to be safe and protect your Sub even if they won't themselves. If things happen in the moment know the risk and watch out for your partner and their body language/tone.
+- If you are uncomfortable/something is not right, stop. Do not push yourself beyond what you find okay to appease anyone. Your personal safety comes first.
+- Do not underestimate the headspace of a submissive. Some submissives may consent to something they would not otherwise when feeling submissive. As a Dominant, you should be cautious around pushing boundaries within scenes and know the limits of your submissive.
 
 ## House Rules
-If you ever partake in a local event check their rules and expections before going. Many have specific rules that may not be obvious, such as no phone/camera use or drinking. Rules like these exist to ensure the privacy of attendees, but it can be a confusing venture if you do not pay attention. If you are unsure about something reach out beforehand and ask if something is alright before attempting it or showing up.
+If you ever partake in a local event or community check their rules and expectations before diving in. Many have specific rules that may not be obvious, such as no phone/camera use or drinking. Rules like these exist to ensure the privacy and safety of attendees, it can be a confusing venture if you do not pay attention. If you are unsure about something reach out beforehand and ask if something is alright before attempting it or showing up. When in doubt these events are staffed by Dungeon Monitors usually and they exist to ask.
+
+## Our Discord Community Rules
+- Unwanted sexual direct messages will result in bans.
+- Not following Direct Messaging Preferences may result in bans.
+- Do not use our community for your gain IE: Discords, OnlyFans, Phishing Etc…. Doing so results in a permanent ban, as well as those involved.
+
+**Banned topics -** kink-shaming, trigger topics like rape, suicide, unhealthy relationships, abuse, depression. Politics/race/religion, shock, homophobia/transphobia, ableism, and drug use. 
+**Banned kinks -** scat, necrophilia, bestiality, drug play/drugging/rape(cnc okay), findom and (hebe+ephe+pedo)phila, sounding, blood/gore, vore/inflation/furry, voyeurism, pregnant women, fisting. 
+**Note:** any staff may include/stop additional topics/kinks as desired
+Join our Discord for a full list of our current rules.
+

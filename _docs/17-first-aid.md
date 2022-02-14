@@ -2,10 +2,11 @@
 title: "First Aid"
 permalink: /docs/first-aid/
 excerpt: "First Aid"
-last_modified_at: 2021-06-07T08:48:05-04:00
+last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
+toc_sticky: true
 ---
 ## First Aid/Health In & Outside Of BDSM
 As a Dom you are in sole control of someone’s safety and while accidents happen, they are largely non harmful luckily. BDSM is often quite safe when basic safety is followed. Sometimes things go wrong, unplanned things happen or just bad luck. Admittedly this guide is overkill, but something I felt lot of people do not have experience in first and this could be valuable outside of BDSM as well. In BDSM you are often alone, without support or help and must make decisions alone for the care of someone if they become in distress until help arrives. Making the right choices in those early moments can have a large impact on how things can turn out.
