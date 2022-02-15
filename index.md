@@ -22,14 +22,14 @@ feature_row:
     alt: "fully responsive"
     title: "Take BDSM Test"
     excerpt: "Find what deviant you are."
-    url: "/docs/layouts/"
+    url: "https://bdsmtest.deviantbound.com"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/blog-feature.png
     alt: "100% free"
     title: "Our Blog"
     excerpt: "See our latest blog post."
-    url: "/docs/license/"
+    url: "https://deviantbound.com/blog/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
