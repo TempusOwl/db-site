@@ -19,7 +19,7 @@ Having a BDSM relationship online can be challenging, anytime you seek potential
 - If your partner is young, you should highly consider asking for their ID to verify their age.
 
 ## Safe BDSM In Person
-While there is overlap with online dynamics, the new challenge becomes personal safety. While the BDSM community is full of people who promote safety, sometimes baddies slip who represent themselves as in the community when they are not. Always be cautious meeting anyone online through apps like Tinder. It is a great idea to share the location of where you are going to a close friend and tell them a time to check in on you, and if something happens and you don't respond get help.
+While there is overlap with online dynamics, the new challenge becomes personal safety. While the BDSM community is full of people who promote safety, sometimes baddies slip in who say they are great Doms, when they are not. Always be cautious meeting anyone online through apps like Tinder. It is a great idea to share the location of where you are going to a close friend and tell them a time to check in on you, and if something happens and you don't respond get help.
 The alternative route is to look at local events happening in your community on sites like FetLife. You can screen the people attending beforehand and ask questions. Events designed around BDSM are a great way to meet people due to the pack benefit where everyone keeps each other safe.
 
 Online communication has grown and with that, the number of people using digital trickery to catfish others online. In this article, I will cover how to tell if someone is a catfish using a few basic concepts and explain the signs that are a warning to watch out for.

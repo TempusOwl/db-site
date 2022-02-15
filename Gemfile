@@ -13,8 +13,14 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
+### Required For Building
 gem "jekyll"
 gem "minimal-mistakes-jekyll"
+
+### Comment Out Unless building locally on Windows
+#gem "tzinfo-data"
+#gem "wdm"
+#gem "webrick"
 
 
 # The following plugins are automatically loaded by the theme-gem:
