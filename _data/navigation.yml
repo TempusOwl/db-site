@@ -62,18 +62,18 @@ docs:
         url: /docs/bdsm-community/
       - title: "Gate Keeping & Kink Shaming"
         url: /docs/kink-shaming-gate-keeping/
-  - title: Dynamics
+  - title: Kink Education
     children:
       - title: "Protocol"
         url: /docs/protocal/
-      - title: "Staying Safe"
-        url: /docs/staying-safe/
       - title: "Shibari"
         url: /docs/shibari/
       - title: "Exhibtionism"
         url: /docs/exhibtionism/
-  - title: Kink Education
+  - title: More Reading
     children:
+      - title: "Staying Safe"
+        url: /docs/staying-safe/
       - title: "First Aid"
         url: /docs/first-aid/
       - title: "Using BDSM / Sex Toys"
