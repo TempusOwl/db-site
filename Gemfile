@@ -18,9 +18,9 @@ gem "jekyll"
 gem "minimal-mistakes-jekyll"
 
 ### Comment out unless building locally on Windows
-#gem "tzinfo-data"
-#gem "wdm"
-#gem "webrick"
+gem "tzinfo-data"
+gem "wdm"
+gem "webrick"
 
 
 # The following plugins are automatically loaded by the theme-gem:
