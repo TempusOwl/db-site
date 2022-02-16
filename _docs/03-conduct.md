@@ -27,7 +27,6 @@ If you ever partake in a local event or community check their rules and expectat
 - Unwanted sexual direct messages will result in bans.
 - Not following Direct Messaging Preferences may result in bans.
 - Do not use our community for your gain IE: Discords, OnlyFans, Phishing Etc…. Doing so results in a permanent ban, as well as those involved.
-
 **Banned topics -** kink-shaming, trigger topics like rape, suicide, unhealthy relationships, abuse, depression. Politics/race/religion, shock, homophobia/transphobia, ableism, and drug use. 
 **Banned kinks -** scat, necrophilia, bestiality, drug play/drugging/rape(cnc okay), findom and (hebe+ephe+pedo)phila, sounding, blood/gore, vore/inflation/furry, voyeurism, pregnant women, fisting. 
 **Note:** any staff may include/stop additional topics/kinks as desired
