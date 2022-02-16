@@ -17,7 +17,7 @@ source "https://rubygems.org"
 gem "jekyll"
 gem "minimal-mistakes-jekyll"
 
-### Comment Out Unless building locally on Windows
+### Comment out unless building locally on Windows
 #gem "tzinfo-data"
 #gem "wdm"
 #gem "webrick"
