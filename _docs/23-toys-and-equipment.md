@@ -7,7 +7,11 @@ redirect_from:
   - /theme-setup/
 toc: true
 toc_sticky: true
+image: /assets/images/docs/toys-and-equipment/arrows-167536_960_720.jpg
 ---
+<figure>
+  <img src="{{ '/assets/images/docs/toys-and-equipment/arrows-167536_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
+</figure>
 ## Impact Play
 ### Important Safety Concepts
 - Bad Zones – Not all areas on the body should be hit, hitting the wrong areas can cause real bodily damage to your partner. Even when you are safe, there is always a risk. Having safe words and communication are important. Zones alone should not be a rule, but a tool in addition to your partner’s comfortability. Below is a shortlist of dangerous zones and WHY they are dangerous.

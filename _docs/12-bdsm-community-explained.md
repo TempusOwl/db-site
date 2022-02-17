@@ -1,13 +1,17 @@
 ---
-title: "BDSM Is A Community"
-permalink: /docs/bdsm-community/
+title: "What Is The BDSM Community?"
+permalink: /docs/bdsm-community-explained/
 excerpt: "BDSM is a community, not just a word."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
 toc_sticky: true
+image: /assets/images/docs/bdsm-community-explained/people-4050698_960_720.jpeg
 ---
+<figure>
+  <img src="{{ '/assets/images/docs/bdsm-community-explained/people-4050698_960_720.jpeg' | relative_url }}" alt="Image of art with hand cuffs.">
+</figure>
 ## The Community
 BDSM is a community first and foremost, with its own expectations, rules & limits that we entrust with each other. It is far more meaningful than a tag in PornHub, admittedly long ago this was my view about BDSM until I met someone who taught me there so much more to BDSM. The BDSM Community has an intense focus on promoting and ensuring safety with each other. Often local gatherings, sites, and online communities like ours exist to promote a safer exploration into BDSM for others, as well as a way to meet others safely. If you ever sought out your local community you will see a wide array of rules and expectations to participate in events. Local gatherings often work through vouches and other means to foster a safe and discrete community. Alternatively, there are many great public events you can join through fetlife.com that can open more doors to private gatherings through the connections you make along the way in the community.
 

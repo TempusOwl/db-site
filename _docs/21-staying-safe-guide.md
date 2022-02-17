@@ -1,13 +1,17 @@
 ---
 title: "Staying Safe"
-permalink: /docs/staying-safe/
-excerpt: "Basic BDSM Safety"
+permalink: /docs/staying-safe-guide/
+excerpt: "How to be safe online and in the outside world when in the kink community. Learn safe practices & advice."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
 toc_sticky: true
+image: /assets/images/docs/staying-safe-guide/arrows-167536_960_720.jpg
 ---
+<figure>
+  <img src="{{ '/assets/images/docs/staying-safe-guide/arrows-167536_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
+</figure>
 ## Safe BDSM Dynamics Online
 Having a BDSM relationship online can be challenging, anytime you seek potential partners there can be uncertainty if they are real or fake. Some sadly use BDSM as a method to get nudes and sex without really being interested in dynamics or BDSM. These people are toxic and you should know how to spot these. As general role practice these points below to be safe online.
 - Never give your last name out or address until you have known each other, especially for receiving gifts early into a relationship which can be a red flag. If you are into accepting gifts from strangers, consider renting a mailbox (not to be confused with a PO box which do not accept all packages) Some mailrooms will even allow you to pay small fee to pick up items without paying for a box monthly.

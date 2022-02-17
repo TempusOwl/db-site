@@ -1,13 +1,17 @@
 ---
-title: "First Aid"
-permalink: /docs/first-aid/
-excerpt: "First Aid"
+title: "Thorough First Aid Guide For BDSM"
+permalink: /docs/first-aid-guide/
+excerpt: "Learn about how to deal with everything from small wounds and bruise care to more to help your partner if they are in need."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
 toc_sticky: true
+image: /assets/images/docs/first-aid-guide/arrows-167536_960_720.jpg
 ---
+<figure>
+  <img src="{{ '/assets/images/docs/first-aid-guide/arrows-167536_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
+</figure>
 ## First Aid/Health In & Outside Of BDSM
 As a Dom you are in sole control of someone’s safety and while accidents happen, they are largely non harmful luckily. BDSM is often quite safe when basic safety is followed. Sometimes things go wrong, unplanned things happen or just bad luck. Admittedly this guide is overkill, but something I felt lot of people do not have experience in first and this could be valuable outside of BDSM as well. In BDSM you are often alone, without support or help and must make decisions alone for the care of someone if they become in distress until help arrives. Making the right choices in those early moments can have a large impact on how things can turn out.
 Disclaimer I am not a medical professional, though a lot of this content is primarily sourced through certified medical professionals and other primary sources. I encourge everyone to consider taking CPR and first aid classes if you want a formal education to help those you care about and your local community. It's a great thing for a resume too!

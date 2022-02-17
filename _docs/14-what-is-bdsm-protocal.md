@@ -1,13 +1,17 @@
 ---
-title: "Protocl"
-permalink: /docs/protocol/
+title: "What Does High Protocol Mean In BDSM?"
+permalink: /docs/what-is-bdsm-protocal/
 excerpt: "Learn about BDSM protocol."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
 toc_sticky: true
+image: /assets/images/docs/what-is-bdsm-protocal/arrows-167536_960_720.jpg
 ---
+<figure>
+  <img src="{{ '/assets/images/docs/what-is-bdsm-protocal/arrows-167536_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
+</figure>
 Protocol levels are the expectation of how a dynamic should work between two people. There is necessarily no agreed-upon meaning of what each protocol means, so always discuss expectations with your partners as things can differ slightly. With that said the rest of this article is going to explain what you will commonly find in each protocol level in the BDSM community and what you can expect but first some important concepts!
 
 ## Knowing Each Other's Obligations

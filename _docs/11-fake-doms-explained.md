@@ -1,13 +1,17 @@
 ---
-title: "Fake Doms"
-permalink: /docs/fake-doms/
-excerpt: "Learn about Fake Doms and how to watch out for them."
+title: "What Are Fake Doms In BDSM?"
+permalink: /docs/fake-doms-explained/
+excerpt: "Learn about Fake Doms and how to watch out for them in the BDSM community."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
 toc_sticky: true
+image: /assets/images/docs/fake-doms-explained/bear-545682_960_720.jpg
 ---
+<figure>
+  <img src="{{ '/assets/images/docs/fake-doms-explained/bear-545682_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
+</figure>
 Dominant's position over you can be a fun experience, in contrast, it can be an abusive nightmare. Unfortunately, as BDSM has grown the number of uneducated people has grown with it too. This overview will explain what makes quality Doms and what makes fake (abusive) Doms. This education will empower you to protect yourself, and the people you care about from toxic dynamics.
 
 # Fake Doms

@@ -1,13 +1,17 @@
 ---
-title: "Submissives Have The Power"
+title: "Why Submissives Have The Power"
 permalink: /docs/submissives-have-the-power/
-excerpt: "Learn why submissives have the power in BDSM."
+excerpt: "Learn why submissives have the power in BDSM dynamics."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
 toc_sticky: true
+image: /assets/images/docs/submissives-have-the-power/women-1898499_960_720.jpg
 ---
+<figure>
+  <img src="{{ '/assets/images/docs/submissives-have-the-power/women-1898499_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
+</figure>
 ## The Submissive Is In Control
 Despite the role of a dominant being in control, the real control comes from the submissive. When things feel weird or something hurts too much one word makes everything stop. Dominants must respect these boundaries and limits, this means at any point the submissive has control to stop what is happening if they feel the need to. Do not be afraid to speak up as a submissive, a good Dom will always appreciate your communication if you hold your tongue small issues become big and no Dom worth their salt wants that.
 

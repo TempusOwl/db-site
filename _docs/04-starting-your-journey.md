@@ -1,13 +1,18 @@
 ---
-title: "Your Personal Journey"
-permalink: /docs/your-journey/
+title: "Starting Your BDSM Journey"
+permalink: /docs/starting-your-journey/
 excerpt: "Your Personal Journey Into BDSM"
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
 toc_sticky: true
+image: /assets/images/docs/starting-your-journey/arrows-167536_960_720.jpg
 ---
+<figure>
+  <img src="{{ '/assets/images/docs/starting-your-journey/arrows-167536_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
+</figure>
+
 ## Starting Your Journey
 You must think to yourself what do you want out of BDSM? If you have a certain picture in your head find out what kinks that involve and start seeing what exists out there for you. Once you have your goals, communicate your intent. By finding your BDSM Role and the kinks that interest you, you will be able to paint the picture of who you are to others, allowing you to find the right people who mesh with what you want out of BDSM. Your role is by far one of the most significant things in determining what doors it will open for you. As you dive deeper you may find your role changes, or your kinks change and that is all part of the journey. The next section is dedicated just to BDSM roles.
 
@@ -16,4 +21,3 @@ There are many great blogs, forums, and communities out there for BDSM. Due to B
 
 ## Local Community
 The most accessible way to see what exists for BDSM in your community is through sites like fetlife.com, which let you search for events based in your area. This can be a great way to make connections with people. Fetlife specifically, lets you see who is attending so you can decide if it's a vibe you like or not by checking people's profiles first.
-

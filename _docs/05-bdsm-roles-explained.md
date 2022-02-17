@@ -1,14 +1,17 @@
 ---
-title: "BDSM Roles"
-permalink: /docs/bdsm-roles/
-excerpt: "Learn what BDSM roles are and how to find yours."
+title: "BDSM Roles Explained"
+permalink: /docs/bdsm-roles-explained/
+excerpt: "Learn what BDSM roles mean in the BDSM community and how to find your own role."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
 toc_sticky: true
+image: /assets/images/docs/bdsm-roles-explained/arrow-2085192_960_720.jpg
 ---
-
+<figure>
+  <img src="{{ '/assets/images/docs/bdsm-roles-explained/arrow-2085192_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
+</figure>
 ## What do the three roles mean in BDSM?
 In BDSM, there are three primary roles:
 - `Submissives (Sub or Subby)`

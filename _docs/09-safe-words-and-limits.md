@@ -1,5 +1,5 @@
 ---
-title: "Safe Words & Limits"
+title: "What Are Safe Words & Limits?"
 permalink: /docs/safe-words-and-limits/
 excerpt: "Learn about safe words and what limits mean within BDSM."
 last_modified_at: 2022-02-14T08:48:05-04:00
@@ -7,7 +7,11 @@ redirect_from:
   - /theme-setup/
 toc: true
 toc_sticky: true
+image: /assets/images/docs/safe-words-and-limits/stop5520347_960_720.jpg
 ---
+<figure>
+  <img src="{{ '/assets/images/docs/safe-words-and-limits/stop5520347_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
+</figure>
 The concept of "Safe Words" are often misunderstood, especially with beginners who do not see the value in a dedicated safe word. BDSM is about being safe; communication is paramount to ensure this happens. The disconnect that many beginners have with BDSM is they ask themselves why do I need a safe word? In reality, many beginners forgo a dedicated safe word with great success. This creates a dangerous situation where people do not value the benefit of safe words as they grow more with BDSM. If you want to take BDSM seriously and beyond what is vanilla agreeing upon a safe word is necessary.
 
 ## Safe Word - Your Own

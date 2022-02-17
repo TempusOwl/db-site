@@ -1,13 +1,18 @@
 ---
-title: "BDSM Roles"
-permalink: /docs/acronyms/
-excerpt: "Learn what BDSM acronyms."
+title: "BDSM Acronyms List Kinks & Terms"
+permalink: /docs/list-of-acronyms/
+excerpt: "Learn what BDSM acronyms exist and what they mean in the community."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
 toc_sticky: true
+image: /assets/images/docs/list-of-acronyms/woman-1738669_960_720.jpg
 ---
+<figure>
+  <img src="{{ '/assets/images/docs/list-of-acronyms/woman-1738669_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
+</figure>
+
 This is an ongoing list of BDSM kinks as well as safety-oriented ones, It is meant to be a fairly conclusive one with kinks you will find out in the wild. When in doubt always ask your partner if they say something you never heard! The list is on-going.
 
 ## Safety Ordinated

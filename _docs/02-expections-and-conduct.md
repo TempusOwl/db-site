@@ -1,13 +1,17 @@
 ---
-title: "BDSM Starter Guide"
-permalink: /docs/conduct/
-excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
+title: "Expections & Conduct For BDSM"
+permalink: /docs/expections-and-conduct-for-bdsm/
+excerpt: "Learn about what expections there is in the BDSM community, and the type of conduct you should strive for."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
 toc_sticky: true
+image: /assets/images/docs/expections-and-conduct/know-the-rules.jpg
 ---
+<figure>
+  <img src="{{ '/assets/images/docs/expections-and-conduct/know-the-rules.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
+</figure>
 
 ## Conduct
 - Never cheat or engage with additional partners in an exclusive dynamic.
