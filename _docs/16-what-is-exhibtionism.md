@@ -7,10 +7,10 @@ redirect_from:
   - /theme-setup/
 toc: true
 toc_sticky: true
-image: /assets/images/docs/what-is-exhibtionism/arrows-167536_960_720.jpg
+image: /assets/images/docs/what-is-exhibtionism/concert-3084876_960_720.jpg
 ---
 <figure>
-  <img src="{{ '/assets/images/docs/what-is-exhibtionism/arrows-167536_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
+  <img src="{{ '/assets/images/docs/what-is-exhibtionism/concert-3084876_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
 </figure>
 ## What is BDSM is public and how does it look?
 It can take many forms from requiring the wearing of devices like chastity cages, butt plugs, vibrators, and more. In other forms, it can be physiological domination like in Daddy/Little dynamics.

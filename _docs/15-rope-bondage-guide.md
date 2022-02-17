@@ -1,16 +1,16 @@
 ---
 title: "Getting Started With Rope Bondage & Shibari"
-permalink: /docs/getting-started-with-rope-bondage/
+permalink: /docs/rope-bondage-guide/
 excerpt: "Learn about Rope Bondage & Shibari and how to preform it safely with this guide."
 last_modified_at: 2021-06-07T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
 toc_sticky: true
-image: /assets/images/docs/starting-your-journey/arrows-167536_960_720.jpg
+image: /assets/images/docs/rope-bondage-guide/ship-traffic-jams-602169_960_720.jpg
 ---
 <figure>
-  <img src="{{ '/assets/images/docs/starting-your-journey/arrows-167536_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
+  <img src="{{ '/assets/images/docs/rope-bondage-guide/ship-traffic-jams-602169_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
 </figure>
 Shibari 縛り is a longstanding Japanese art that literally means "To Tie" rope bondage and Shibari share many similarities. Shibari can be very rewarding over traditional rope bondage because it is creating a form of art with your partner that you can experience together. You also may hear the term Kinbaku 緊縛 used synonymous with Shibari, Kinbaku translates to "binding tightly." Shibari in some depictions has loose rope as part of the aesthetic, while with Kinbaku this would be incorrect. Kinbaku is often considered Shibari, while Shibari is not always considered Kinbaku.
 Note: Shibari and Kinbaku are Japanese meanings are sometimes disputed. Some say the modern western meaning (one I used above and is growing in the west), others argue the traditional Japanese meaning "tying, but in a generic way." While Kinbaku is "erotic tying" in contrast, it depends on whom you ask and their perspective, there is no true single definition now, and the exact meaning may vary in your culture, especially if you are Asian/Japanese local.

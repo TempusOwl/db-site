@@ -12,6 +12,7 @@ image: /assets/images/docs/communication-and-honorifics/quarrel-4884735_960_720.
 <figure>
   <img src="{{ '/assets/images/docs/communication-and-honorifics/quarrel-4884735_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
 </figure>
+
 ## Honorifics
 Is the term for the names you call your Dominant, or in some cases submissives. It is meant to imply you are honoring them through its use as a power dynamic, but also loosely it means "the name you call your partner" meaning it implies to submissives as well. The types of honorifics will vary from the kinks you partake in, usually, it's decided by the Dominant who has their own preference based on what kinks they enjoy. Honorifics can be kink-specific like master or daddy, but they can be ambiguous like sir. Whereas submissives can be called baby or darling for example.
 

@@ -7,10 +7,10 @@ redirect_from:
   - /theme-setup/
 toc: true
 toc_sticky: true
-image: /assets/images/docs/choking-safely-guide/arrows-167536_960_720.jpg
+image: /assets/images/docs/choking-safely-guide/luiz-rogerio-nunes-XEQAQwaAAC0-unsplash.jpg
 ---
 <figure>
-  <img src="{{ '/assets/images/docs/choking-safely-guide/arrows-167536_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
+  <img src="{{ '/assets/images/docs/choking-safely-guide/luiz-rogerio-nunes-XEQAQwaAAC0-unsplash.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
 </figure>
 
 ## Unfinished
