@@ -1,7 +1,7 @@
 ---
 title: "Starting Your BDSM Journey"
 permalink: /docs/starting-your-journey/
-excerpt: "Your Personal Journey Into BDSM"
+excerpt: "BDSM is about you learning yourself and what you makes you deviant, and connections you make along the way, while finding others who share your goals."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/

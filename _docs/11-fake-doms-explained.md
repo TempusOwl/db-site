@@ -1,7 +1,7 @@
 ---
-title: "What Are Fake Doms In BDSM?"
+title: "What Fake Doms? The Growing Threat To BDSM"
 permalink: /docs/fake-doms-explained/
-excerpt: "Learn about Fake Doms and how to watch out for them in the BDSM community."
+excerpt: "Learn about fake doms and how not all dominants are alike. Learn about the warning signs and how to protect yourself from unhealthy dynamics."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/

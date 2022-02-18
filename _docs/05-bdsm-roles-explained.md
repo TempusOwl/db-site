@@ -1,7 +1,7 @@
 ---
 title: "BDSM Roles Explained"
 permalink: /docs/bdsm-roles-explained/
-excerpt: "Learn what BDSM roles mean in the BDSM community and how to find your own role."
+excerpt: "How to find your BDSM role? Learn what BDSM role is & how to choose your role that fits best for you to help you make the right connections."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/

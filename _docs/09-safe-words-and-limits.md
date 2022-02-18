@@ -1,7 +1,7 @@
 ---
 title: "What Are Safe Words & Limits?"
 permalink: /docs/safe-words-and-limits/
-excerpt: "Learn about safe words and what limits mean within BDSM."
+excerpt: "Learn about what safe words & limits are, and why they are essential to BDSM. Why they are important topics in every relationship."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/

@@ -1,7 +1,7 @@
 ---
 title: "Why Submissives Have The Power"
 permalink: /docs/submissives-have-the-power/
-excerpt: "Learn why submissives have the power in BDSM dynamics."
+excerpt: "Learn why dominants are not the ones in charge, its the submissive that has the true power in BDSM dynamics."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/

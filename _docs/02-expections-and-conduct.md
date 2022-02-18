@@ -1,7 +1,7 @@
 ---
 title: "Expections & Conduct For BDSM"
 permalink: /docs/expections-and-conduct-for-bdsm/
-excerpt: "Learn about what expections there is in the BDSM community, and the type of conduct you should strive for."
+excerpt: "Learn about what exceptions there is in the BDSM community, and the type of conduct you should strive for as you dive deeper in the world."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/

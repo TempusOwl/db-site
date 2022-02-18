@@ -1,7 +1,7 @@
 ---
 title: "Safety Introduction"
 permalink: /docs/intro-to-bdsm-safety/
-excerpt: "Basic BDSM Safety"
+excerpt: "Introduction to the safety concerns that exist in BDSM, learn about why its important to learn about safety to protect yourself and your partner."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
