@@ -12,6 +12,7 @@ image: /assets/images/docs/kink-shaming-gate-keeping/anders-3361950_960_720.jpg
 <figure>
   <img src="{{ '/assets/images/docs/kink-shaming-gate-keeping/anders-3361950_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
 </figure>
+
 ## Kink Shaming
 This is when a kink is used to promote negativity. Most often shamming comes from someone who disagrees with a kink or its concept. They speak their beliefs outwardly. If you encounter a kink you disagree with, you should keep your opinion to yourself. One of the wonders of the BDSM community is its diversity. If you are morally against someone's kink that is fine but keep it to yourself. That said discussing your dislikes and how they relate to your interests with potential partners is totally acceptable. Telling people who didn't ask your opinion is not acceptable.
 

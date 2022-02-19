@@ -12,7 +12,8 @@ image: /assets/images/docs/choking-safely-guide/luiz-rogerio-nunes-XEQAQwaAAC0-u
 <figure>
   <img src="{{ '/assets/images/docs/choking-safely-guide/luiz-rogerio-nunes-XEQAQwaAAC0-unsplash.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
 </figure>
-
+This section is a draft, expect errors and issues.
 ## Unfinished
+
 ---
 

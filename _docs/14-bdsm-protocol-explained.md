@@ -13,6 +13,9 @@ image: "{{ '/assets/images/docs/bdsm-protocol-explained/bondage-2281182_960_720.
 <figure>
   <img src="{{ '/assets/images/docs/bdsm-protocol-explained/bondage-2281182_960_720.jpeg' | relative_url }}" alt="Image of art with hand cuffs.">
 </figure>
+
+This section is a draft, expect errors and issues.
+
 Protocol levels are the expectation of how a dynamic should work between two people. There is necessarily no agreed-upon meaning of what each protocol means, so always discuss expectations with your partners as things can differ slightly. With that said the rest of this article is going to explain what you will commonly find in each protocol level in the BDSM community and what you can expect but first some important concepts!
 
 ## Knowing Each Other's Obligations

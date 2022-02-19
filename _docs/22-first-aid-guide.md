@@ -12,6 +12,7 @@ image: /assets/images/docs/first-aid-guide/arrows-167536_960_720.jpg
 <figure>
   <img src="{{ '/assets/images/docs/first-aid-guide/arrows-167536_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
 </figure>
+
 ## First Aid/Health In & Outside Of BDSM
 As a Dom you are in sole control of someone’s safety and while accidents happen, they are largely non harmful luckily. BDSM is often quite safe when basic safety is followed. Sometimes things go wrong, unplanned things happen or just bad luck. Admittedly this guide is overkill, but something I felt lot of people do not have experience in first and this could be valuable outside of BDSM as well. In BDSM you are often alone, without support or help and must make decisions alone for the care of someone if they become in distress until help arrives. Making the right choices in those early moments can have a large impact on how things can turn out.
 Disclaimer I am not a medical professional, though a lot of this content is primarily sourced through certified medical professionals and other primary sources. I encourge everyone to consider taking CPR and first aid classes if you want a formal education to help those you care about and your local community. It's a great thing for a resume too!
@@ -28,11 +29,19 @@ For pain use acetaminophen (Tylenol). Do not use Ibuprofen/Aspirin which can pro
 Arnica cream is a homeopathic method known to speed the healing process of bruises and may be worth buying if you have a bruise prone partner (or you bruise yourself easily).
 One-Three after a bruise is visible use a heat pack or wash cloth soaked in warm water several times a day to promote healing on the area.
 Pain and tenderness should get better within a few days and the bruise should go away within a couple of weeks.
-## Problematic Medical Conditions
-- Any medical condition that causes excessive bleeding or inability for blood clot should never partake in impact play. It is possible to bleed out internally from certain medical conditions/diseases when bruised. While this is not by any means common, it is something to be aware of as a Dominant.
+
+## Medical Medications & Conditions
+- Hemophilia (inability to blood clot)
+- Diabetes & Blood Disorders
+- Aspirin (Increases the chances of bruising (which some abuse the medication for that function)
+- Blood Thinners
+These are all things that can create challenges for safe impact play. Any condition that causes healing, blood flow or platelets issues should consult their doctor or take small steps to find what is acceptable for their body & conditions.
+
+
 ## Joint Dislocation
 Occurs when too much pressure is applied to a joint causing it to slip outside of its joint. This will cause the joint to lock up and the individual's joint will be unable to move. You should not try to reset a joint unless you have medical training. Instead, call 911 where paramedics can reset the joint back in place or bring you to the hospital to have it performed in a safe way. Trying to reset a joint improperly can cause muscle and nerve damage potentially that can be permanent.
 - If it occurs untie and remove any stress/force on the affected joint and position the person somewhere safe where they can relax. Stay with the person and keep them engaged and help keep their mind off it, as not to cause panic or shock until help arrives.
+
 # First For Aid Cuts & Abrasions
 - Consider buying a well-stocked premade first aid box if nothing else. You can buy a basic kit with plenty of sterile gauze, creams, bandages, antiseptics and more in neatly marked boxes. They are a good purchase even outside of BDSM to throw inside a car too, as well as your house. If you are serious about first aid, do things outside of BDSM such as outdoor hiking perhaps look into making your own first aid kit as well. Pre-made first aid kits often have lot of “fluff”.
 - Clean the area with mild soap and water or saturate with a spray.
