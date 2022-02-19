@@ -7,11 +7,11 @@ redirect_from:
   - /theme-setup/
 toc: true 
 toc_sticky: true
-image: /assets/images/docs/what-is-bdsm-beginners-guide/bdsm-4529246_960_720.jpg
+image: /assets/images/docs/bdsm-beginners-guide/Fq9vwU2IkO.webp
 ---
 
 <figure>
-  <img src="{{ '/assets/images/docs/what-is-bdsm-beginners-guide/bdsm-4529246_960_720.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
+  <img src="{{ '/assets/images/docs/bdsm-beginners-guide/Fq9vwU2IkO.webp' | relative_url }}" alt="model with right light">
 </figure>
 
 ## What is "BDSM"?
@@ -26,7 +26,7 @@ Everyone is a slave 24/7! Total Power Exchange or 24/7 is a kink in the communit
 Is the acronym used to signify the different sects of the kink community, together they are referred to as "BDSM". The image below explains how each set of kinks relates to the BDSM acronym.
 
 <figure>
-  <img src="{{ '/assets/images/doc-BDSM-acronym.png' | relative_url }}" alt="BDSM Acronym Explained">
+  <img src="{{ '/assets/images/docs/bdsm-beginners-guide/doc-BDSM-acronym.webp' | relative_url }}" alt="BDSM Acronym Explained">
 </figure>
 
 #### BDSM Can Be Dangerous

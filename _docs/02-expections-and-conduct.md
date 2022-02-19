@@ -1,16 +1,16 @@
 ---
 title: "Expections & Conduct For BDSM"
-permalink: /docs/expections-and-conduct-for-bdsm/
+permalink: /docs/expections-and-conduct/
 excerpt: "Learn about what exceptions there is in the BDSM community, and the type of conduct you should strive for as you dive deeper in the world."
 last_modified_at: 2022-02-14T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
 toc_sticky: true
-image: /assets/images/docs/expections-and-conduct/know-the-rules.jpg
+image: /assets/images/docs/expections-and-conduct/know-the-rules.webp
 ---
 <figure>
-  <img src="{{ '/assets/images/docs/expections-and-conduct/know-the-rules.jpg' | relative_url }}" alt="Image of art with hand cuffs.">
+  <img src="{{ '/assets/images/docs/expections-and-conduct/know-the-rules.webp' | relative_url }}" alt="Image  saying know the rules.">
 </figure>
 
 ## Conduct
@@ -31,8 +31,11 @@ If you ever partake in a local event or community check their rules and expectat
 - Unwanted sexual direct messages will result in bans.
 - Not following Direct Messaging Preferences may result in bans.
 - Do not use our community for your gain IE: Discords, OnlyFans, Phishing Etc…. Doing so results in a permanent ban, as well as those involved.
+
 **Banned topics -** kink-shaming, trigger topics like rape, suicide, unhealthy relationships, abuse, depression. Politics/race/religion, shock, homophobia/transphobia, ableism, and drug use. 
+
 **Banned kinks -** scat, necrophilia, bestiality, drug play/drugging/rape(cnc okay), findom and (hebe+ephe+pedo)phila, sounding, blood/gore, vore/inflation/furry, voyeurism, pregnant women, fisting. 
+
 **Note:** any staff may include/stop additional topics/kinks as desired
 Join our Discord for a full list of our current rules.
 
