@@ -11,21 +11,21 @@ header:
 excerpt: >
   Deviant Bound is a community focused around BDSM education, safety and helping others meet founded in 2017. Offering resources, tools & education material.<br/>
 feature_row:
-  - image_path: /assets/images/kinklist-feature.png
+  - image_path: /assets/images/kinklist-feature.webp
     alt: "customizable"
     title: "Make A Kinklist"
     excerpt: "Then use it to share to others!"
     url: "https://kinklist.deviantbound.com"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/bdsmlist-feature.png
+  - image_path: /assets/images/bdsmlist-feature.webp
     alt: "fully responsive"
     title: "Take BDSM Test"
     excerpt: "Find what deviant you are."
     url: "https://bdsmtest.deviantbound.com"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/blog-feature.png
+  - image_path: /assets/images/blog-feature.webp
     alt: "100% free"
     title: "Our Blog"
     excerpt: "See our latest blog post."
