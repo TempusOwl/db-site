@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> Join Our Discord"
       url: "https://join.deviantbound.com"
 excerpt: >
-  Deviant Bound is BDSM Community focused around education, safety and helping others meet!<br/>
+  Deviant Bound is a community focused around BDSM education, safety and helping others meet founded in 2017. Offering resources, tools & education material.<br/>
 feature_row:
   - image_path: /assets/images/kinklist-feature.png
     alt: "customizable"
