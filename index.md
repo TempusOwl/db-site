@@ -25,7 +25,7 @@ feature_row:
     url: "https://bdsmtest.deviantbound.com"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/blog-feature.webp
+  - image_path: /assets/images/doc-site.webp
     alt: "100% free"
     title: "Our Blog"
     excerpt: "See our latest blog post."
