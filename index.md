@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/background-feature.webp
+  overlay_image: "/assets/images/background-feature.webp"
   actions:
     - label: "<i class='fas fa-download'></i> Join Our Discord"
       url: "https://join.deviantbound.com"
@@ -27,9 +27,9 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/doc-site.webp
     alt: "100% free"
-    title: "Our Blog"
-    excerpt: "See our latest blog post."
-    url: "https://deviantbound.com/blog/"
+    title: "Education Resources"
+    excerpt: "Learn safety, tips and more about BDSM."
+    url: "https://deviantbound.com/docs/bdsm-beginners-guide/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
