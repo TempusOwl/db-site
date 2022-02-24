@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#040706"
-  overlay_image: "/assets/images/bg.webp"
+  overlay_image: "background-feature.webp"
   actions:
     - label: "<i class='fas fa-download'></i> Join Our Discord"
       url: "https://join.deviantbound.com"
