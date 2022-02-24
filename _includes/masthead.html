@@ -5,8 +5,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         {% unless logo_path == empty %}
-        <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}"
-            alt="{{ site.masthead_title | default: site.title }}"></a>
+          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
         {% endunless %}
         <a class="site-title" href="{{ '/' | relative_url }}">
           {{ site.masthead_title | default: site.title }}
@@ -14,19 +13,15 @@
         </a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
-          <li class="masthead__menu-item">
-            <a href="{{ link.url | relative_url }}" {% if link.description %} title="{{ link.description }}"
-              {% endif %}>{{ link.title }}</a>
-          </li>
+            <li class="masthead__menu-item">
+              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+            </li>
           {%- endfor -%}
         </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
-          <span
-            class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1.5em;
-        margin-top: .25em;
-        fill: #8f4aff;"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M500.3 443.7l-119.7-119.7c27.22-40.41 40.65-90.9 33.46-144.7C401.8 87.79 326.8 13.32 235.2 1.723C99.01-15.51-15.51 99.01 1.724 235.2c11.6 91.64 86.08 166.7 177.6 178.9c53.8 7.189 104.3-6.236 144.7-33.46l119.7 119.7c15.62 15.62 40.95 15.62 56.57 0C515.9 484.7 515.9 459.3 500.3 443.7zM79.1 208c0-70.58 57.42-128 128-128s128 57.42 128 128c0 70.58-57.42 128-128 128S79.1 278.6 79.1 208z"/></svg></i>
+          <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
+          <i class="fas fa-search"></i>
         </button>
         {% endif %}
         <button class="greedy-nav__toggle hidden" type="button">
