@@ -2,7 +2,7 @@
 title: "Kink Shamming & Gate Keeping"
 permalink: /docs/kink-shaming-gate-keeping/
 excerpt: "Learn about issues like Kink Shamming & Gate Keeping and why its bad for the community."
-last_modified_at: 2022-02-14T08:48:05-04:00
+last_modified_at: 2022-02-26T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true

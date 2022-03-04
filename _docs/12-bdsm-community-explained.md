@@ -2,7 +2,7 @@
 title: "What Is The BDSM Community?"
 permalink: /docs/bdsm-community-explained/
 excerpt: "Learn about how BDSM is not just a tag, but its a community with tons of great people. Learn how to navigate the hidden world of BDSM."
-last_modified_at: 2022-02-14T08:48:05-04:00
+last_modified_at: 2022-02-26T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true

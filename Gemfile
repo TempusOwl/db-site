@@ -22,6 +22,9 @@ gem "tzinfo-data"
 gem "wdm"
 gem "webrick"
 
+gem "jekyll-assets"
+gem 'sprockets'
+
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"

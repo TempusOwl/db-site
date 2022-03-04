@@ -2,7 +2,7 @@
 title: "BDSM Acronyms List Kinks & Terms"
 permalink: /docs/list-of-acronyms/
 excerpt: "Learn what acronyms exist in the BDSM & kink community.  Be informed about what acronyms mean in the BDSM community to help you navigate easier."
-last_modified_at: 2022-02-14T08:48:05-04:00
+last_modified_at: 2022-02-26T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true

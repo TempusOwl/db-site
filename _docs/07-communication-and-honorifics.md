@@ -2,7 +2,7 @@
 title: "Why Communication Is Essential In BDSM"
 permalink: /docs/communication-and-bdsm/
 excerpt: "Learn about why communication is important in BDSM, and how to communicate effectively in your relationships."
-last_modified_at: 2022-02-14T08:48:05-04:00
+last_modified_at: 2022-02-26T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true

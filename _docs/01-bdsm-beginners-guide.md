@@ -2,7 +2,7 @@
 title: "What Is BDSM? An In-Depth Beginners Guide"
 permalink: /docs/bdsm-beginners-guide/
 excerpt: "Essential resources to help you journey into BDSM and learn how to be safe, confident and educated. BDSM is a personal journey, learn how to start yours here."
-last_modified_at: 2022-02-14T08:48:05-04:00
+last_modified_at: 2022-02-26T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true 

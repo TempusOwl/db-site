@@ -2,7 +2,7 @@
 title: "Getting Started With Rope Bondage & Shibari"
 permalink: /docs/rope-bondage-guide/
 excerpt: "Learn about Rope Bondage & Shibari and how to preform it safely with this guide."
-last_modified_at: 2021-06-07T08:48:05-04:00
+last_modified_at: 2022-02-26T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true

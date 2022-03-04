@@ -2,7 +2,7 @@
 title: "What Fake Doms? The Growing Threat To BDSM"
 permalink: /docs/fake-doms-explained/
 excerpt: "Learn about fake doms and how not all dominants are alike. Learn about the warning signs and how to protect yourself from unhealthy dynamics."
-last_modified_at: 2022-02-14T08:48:05-04:00
+last_modified_at: 2022-02-26T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true
